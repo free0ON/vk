@@ -7,7 +7,7 @@ import datetime
 import vk_api
 from vk_api.bot_longpoll import VkBotLongPoll
 from vk_api.longpoll import VkLongPoll, VkEventType
-#vk_session = vk_api.VkApi('+799', ' ')
+#vk_session = vk_api.VkApi(' ', ' ')
 
 # try:
 #     vk_session.auth(token_only=True)
